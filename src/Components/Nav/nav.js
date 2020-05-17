@@ -9,8 +9,8 @@ const Navigation = () => {
     <div className="nav nav-div">
       <NavLink to="/" className="nav-page logo-link"> <img src={Logo} alt="logo" className="logo" /></NavLink>
       <div className="link-div">
-        <NavLink to="/properties" className="nav-page nav-link property-link"><span className="span-btn">Properties</span></NavLink>
-        <NavLink to="/about" className="nav-page nav-link"><span  className="span-btn">About</span></NavLink>
+        <NavLink to="/properties" className="nav-page nav-link property-link"><span className="span-btn">Spinning</span></NavLink>
+        <NavLink to="/about" className="nav-page nav-link"><span  className="span-btn">Coach</span></NavLink>
         <NavLink to="/contact" className="nav-page nav-link"><span  className="span-btn">Contact</span></NavLink>
       </div>
       <div className="icon-bar">
