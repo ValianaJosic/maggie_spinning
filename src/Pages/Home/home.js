@@ -7,12 +7,14 @@ import Spin from '../../Assets/Images/spin.jpg'
 function Home() {
 
   return (
-    <div>
+    <div className="hero-back">
       <img alt="spin" src={Spin} className="hero"></img>
-      <div>
+      <div className="home-info">
         <p>COACH</p>
         <p>Caracas,Venezuela</p>
-        <p>Premium weight loss and lifestyle transformations which create long lasting, dramatic results to your health, body & mind.
+        <p>Premium weight loss and lifestyle transformations</p>
+        <p> which create long lasting,</p>
+        <p> dramatic results to your health, body & mind.
         </p>
 
       </div>
