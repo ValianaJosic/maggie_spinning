@@ -24,3 +24,34 @@
     font-size: 30px;
     color: #AF0404;
 }
+
+
+@media (max-width: 40em) {
+    .home-wrapper {
+       
+        display: flex;
+        justify-content: center;
+        padding-top: 90px;
+        
+    }
+    .spin{
+        width: 100%;
+        height: 100%;
+    }
+
+    .home-info{
+        color: #fff;
+        position: absolute;
+        left: -5%;
+        margin-left: 20%;
+        top: 120%;
+        margin-top: -120%;
+        text-decoration: none;
+        font-family: 'Playfair Display', serif;
+        scroll-behavior: auto;
+    }
+
+    .footer{
+        position: relative;     
+    }
+    }
