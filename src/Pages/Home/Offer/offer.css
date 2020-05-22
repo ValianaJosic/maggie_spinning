@@ -1,0 +1,22 @@
+.offer-img{
+    padding-top: 110px;
+    padding-bottom: 80px;
+}
+
+.offer{
+    background-color: #252525;
+    border-top: 1px solid #AF0404;
+}
+
+.offer-info{
+color: #fff;
+position: absolute;
+left: 70%;
+margin-left: -70px;
+top: 150%;
+margin-top: -150px;
+}
+
+.offer-about{
+    font-family: 'Playfair Display', serif;
+}
