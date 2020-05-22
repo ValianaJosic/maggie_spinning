@@ -13,7 +13,7 @@ function Home() {
           Your browser does not support the video tag.
         </video>
       <div className="home-info">
-        <p>COACH</p>
+        <p className="home-title">COACH</p>
         <p>Caracas,Venezuela</p>
         <p>Premium weight loss and lifestyle transformations</p>
         <p> which create long lasting,</p>

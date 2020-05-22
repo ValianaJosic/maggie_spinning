@@ -13,7 +13,14 @@
     position: absolute;
     left: 7%;
     margin-left: -43px;
-    top: 50%;
+    top: 40%;
     margin-top: -90px;
     text-decoration: none;
+    font-family: 'Playfair Display', serif;
+}
+
+.home-title{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: #AF0404;
 }
