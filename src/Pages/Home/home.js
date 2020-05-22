@@ -14,7 +14,7 @@ function Home() {
         </video>
       <div className="home-info">
         <p className="home-title">COACH</p>
-        <p>Caracas,Venezuela</p>
+        <p>Caracas, Venezuela</p>
         <p>Premium weight loss and lifestyle transformations</p>
         <p> which create long lasting,</p>
         <p> dramatic results to your health, body & mind.
