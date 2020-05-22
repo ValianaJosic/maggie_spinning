@@ -25,34 +25,3 @@
     color: #AF0404;
 }
 
-
-@media (max-width: 40em) {
-    .home-wrapper {
-       
-        display: grid;
-        grid-template-columns: 1fr;
-        text-align: center;
-        justify-items: center;
-        margin:0;
-        padding:0;
-        
-    }
-    .hero{
-        width: 100%;
-        height: 100%;
-    }
-
-    .home-info{
-        color: #fff;
-        width: 100%;
-    }
-
-    .home-intro{
-        display: flex;
-        justify-content: center;
-    }
-
-    .footer{
-        position: relative;     
-    }
-    }
