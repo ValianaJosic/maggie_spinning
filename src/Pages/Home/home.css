@@ -1,15 +1,18 @@
 .hero{
     width:70%;
     height: 100%;
-    float: right;
+    padding-top: 105px;
 }
 
+.home-intro{
+    background-color: #252525;
+}
 
 .home-info{
     color: #fff;
     position: absolute;
-    left: 7%;
-    margin-left: -43px;
+    left: 65%;
+    margin-left: -65px;
     top: 50%;
     margin-top: -90px;
     text-decoration: none;
