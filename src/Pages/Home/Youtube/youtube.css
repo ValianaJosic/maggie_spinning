@@ -5,12 +5,3 @@ padding-left: 470px;
 }
 
 
-
-@media (max-width: 40em) {
-
-.home-youtube{
-    padding: 0;
-    padding-left: 70px;
-}
-
-}

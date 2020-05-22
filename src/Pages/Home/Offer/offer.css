@@ -21,21 +21,3 @@ margin-top: -150px;
     font-family: 'Playfair Display', serif;
 }
 
-
-@media (max-width: 40em) {
-
-    .offer-img{
-        width: 500px;
-        height: 500px;
-    }
-
-        .offer{
-            
-        display: none;
-        
-        }
-
-    .footer{
-        position: relative;     
-    }
-    }
