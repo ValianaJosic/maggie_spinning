@@ -1,13 +1,15 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import './home.css';
 
 import Spin from '../../Assets/Videos/spin.mp4'
+import Offer from '../Home/Offer/offer'
 
 
 function Home() {
 
   return (
-    <div className='home-wrapper'>
+    <Fragment>
+    <div className='home'>
         <video autoPlay="autoplay" loop="loop" muted className="video hero">
           <source src={Spin} type="video/mp4" />
           Your browser does not support the video tag.
@@ -19,10 +21,12 @@ function Home() {
         <p> which create long lasting,</p>
         <p> dramatic results to your health, body & mind.
         </p>
-
       </div>
     </div>
-
+    <div>
+    <Offer/>
+    </div>
+    </Fragment>
   );
 }
 
