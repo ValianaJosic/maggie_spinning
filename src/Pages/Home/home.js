@@ -7,7 +7,7 @@ import Spin from '../../Assets/Videos/spin.mp4'
 function Home() {
 
   return (
-    <div>
+    <div className='home-wrapper'>
         <video autoPlay="autoplay" loop="loop" muted className="video hero">
           <source src={Spin} type="video/mp4" />
           Your browser does not support the video tag.
