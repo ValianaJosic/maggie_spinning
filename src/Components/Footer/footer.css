@@ -31,3 +31,18 @@
     height: 0;
     visibility: hidden;
 }
+
+  
+@media (max-width: 40em) {
+
+ 
+    .footer{
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+     
+     
+      
+         }
+         
