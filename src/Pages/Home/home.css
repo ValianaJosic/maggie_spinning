@@ -29,26 +29,27 @@
 @media (max-width: 40em) {
     .home-wrapper {
        
-        display: flex;
-        justify-content: center;
-        padding-top: 90px;
+        display: grid;
+        grid-template-columns: 1fr;
+        text-align: center;
+        justify-items: center;
+        margin:0;
+        padding:0;
         
     }
-    .spin{
+    .hero{
         width: 100%;
         height: 100%;
     }
 
     .home-info{
         color: #fff;
-        position: absolute;
-        left: -5%;
-        margin-left: 20%;
-        top: 130%;
-        margin-top: -130%;
-        text-decoration: none;
-        font-family: 'Playfair Display', serif;
-        scroll-behavior: auto;
+        width: 100%;
+    }
+
+    .home-intro{
+        display: flex;
+        justify-content: center;
     }
 
     .footer{
