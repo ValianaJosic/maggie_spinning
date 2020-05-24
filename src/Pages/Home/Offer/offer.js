@@ -1,7 +1,7 @@
 import React from 'react';
 import './offer.css';
 
-import img from '../../../Assets/Images/spin.jpeg'
+import img from '../../../Assets/Images/spin.jpg'
 
 
 const Offer = () => {
