@@ -20,7 +20,7 @@ export default class contact extends React.Component {
 <img alt="spinning" src={Train} className="train"></img>
 <div className="contact-title">
 <h1 className="contact">CONTACT ME</h1>
-<p className="contact-summary">What ever your question or query please feel free to get in touch and I will get straight back to you</p>
+<p className="contact-summary">What ever your question or query please feel free to get in touch and I will get right back to you</p>
 </div>
 <br></br>
 <div className="contact-me">
