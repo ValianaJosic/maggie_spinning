@@ -4,6 +4,7 @@ import './home.css';
 import Spin from '../../Assets/Videos/spin.mp4'
 import Offer from '../Home/Offer/offer'
 import Youtube from '../Home/Youtube/youtube'
+import Actionbtn from '../Home/Action-btn/action-btn'
 
 
 function Home() {
@@ -17,6 +18,7 @@ function Home() {
             <source src={Spin} type="video/mp4" />
           Your browser does not support the video tag.
         </video>
+        <Actionbtn/>
         </div>
         <div className="home-info">
           <p className="home-title">COACH</p>
