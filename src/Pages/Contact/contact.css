@@ -66,6 +66,7 @@ input:focus, textarea {
 .contact-me{
 padding-left: 40px;
 background-color: #fff;
+padding-bottom: 20px;
 }
 
 .contact-summary{
