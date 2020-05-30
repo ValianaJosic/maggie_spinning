@@ -14,9 +14,8 @@ const Navigation = () => {
         <NavLink to="/contact" className="nav-page nav-link"><span  className="span-btn">Contact</span></NavLink>
       </div>
       <div className="icon-bar">
-        <a href="https://www.facebook.com/Thais-Reyes-357850721490279/" target="_blank" rel="noopener  noreferrer" className="facebook"><i className="fa fa-facebook"></i></a>
-        <a href="https://www.linkedin.com/in/thais-reyes-%F0%9F%8F%96-43474526" target="_blank" rel="noopener  noreferrer" className="twitter"><i className="fa fa-twitter"></i></a>
-        <a href="https://www.linkedin.com/in/thais-reyes-%F0%9F%8F%96-43474526" target="_blank" rel="noopener  noreferrer" className="linkedin"><i className="fa fa-linkedin"></i></a>
+        <a href="https://www.facebook.com/maggie.mijares.1" target="_blank" rel="noopener  noreferrer" className="facebook"><i className="fa fa-facebook"></i></a>
+        <a href="https://www.instagram.com/magimi64/?hl=en" target="_blank" rel="noopener  noreferrer" className="instagram"><i className="fa fa-instagram"></i></a>
       </div>
     </div>
   );

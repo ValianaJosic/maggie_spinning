@@ -51,7 +51,7 @@
     }
     
     .property-link{
-      padding-left: 880px;
+      padding-left: 765px;
     }
     
     .logo-link{
@@ -75,11 +75,12 @@
     .icon-bar {
       display: flex;
       position: fixed;
-      top: 5%;
+      top: 8%;
       right:0;
       -webkit-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
       transform: translateY(-50%);
+      padding-right: 30px;
     }
     
     
@@ -94,7 +95,7 @@
     
     
     .icon-bar a:hover {
-      background-color: #A3CEF1;
+      background-color: #AF0404;
     }
     
     .facebook {
@@ -102,7 +103,7 @@
       border-radius: 50%;
     }
     
-    .twitter {
+    .instagram {
       color: #E7ECEF;
       border-radius: 50%;
     }
